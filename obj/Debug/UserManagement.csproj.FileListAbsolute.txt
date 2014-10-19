@@ -1,0 +1,12 @@
+D:\Projects\ASP.NET\UserManagement\UserManagement\bin\UserManagement.dll
+D:\Projects\ASP.NET\UserManagement\UserManagement\bin\UserManagement.pdb
+D:\Projects\ASP.NET\UserManagement\UserManagement\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Projects\ASP.NET\UserManagement\UserManagement\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Projects\ASP.NET\UserManagement\UserManagement\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\Projects\ASP.NET\UserManagement\UserManagement\bin\UserManagDAL.dll
+D:\Projects\ASP.NET\UserManagement\UserManagement\bin\UserManagEAL.dll
+D:\Projects\ASP.NET\UserManagement\UserManagement\bin\UserManagDAL.pdb
+D:\Projects\ASP.NET\UserManagement\UserManagement\bin\UserManagEAL.pdb
+D:\Projects\ASP.NET\UserManagement\UserManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\ASP.NET\UserManagement\UserManagement\obj\Debug\UserManagement.dll
+D:\Projects\ASP.NET\UserManagement\UserManagement\obj\Debug\UserManagement.pdb
